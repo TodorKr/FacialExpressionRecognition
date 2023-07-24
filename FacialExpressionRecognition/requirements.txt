@@ -1,0 +1,6 @@
+cmake==3.13.1
+dlib==19.16.0
+imutils==0.5.2
+matplotlib==3.0.2
+numpy==1.15.4
+opencv-python==3.4.4.19
